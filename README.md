@@ -1,6 +1,6 @@
 #  **Applied Data Science Capstone**
 
-The *Applied Data Science Capstone* is the culminating course in the IBM Data Science Professional Certificate specialization. This final project serves as a comprehensive summary, applying all the knowledge acquired throughout the specialization.
+The *Data Science Professional Ceritificate Capstone* is the culminating course in the IBM Data Science Professional Certificate specialization. This final project serves as a comprehensive summary, applying all the knowledge acquired throughout the specialization.
 
 ## **Project Background**
 
@@ -33,7 +33,7 @@ SpaceX, a pioneering force in the commercial space age, has revolutionized space
    - Implementing classification models.
    - Building, tuning, and evaluating these models to ensure optimal results.
 
-## ** Importance and Application**
+##  Importance and Application
 
 This project isn't just an academic exercise but holds practical significance:
 
