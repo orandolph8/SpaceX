@@ -33,7 +33,7 @@ SpaceX, a pioneering force in the commercial space age, has revolutionized space
    - Implementing classification models.
    - Building, tuning, and evaluating these models to ensure optimal results.
 
-## **🌐 Importance and Application**
+## ** Importance and Application**
 
 This project isn't just an academic exercise but holds practical significance:
 
