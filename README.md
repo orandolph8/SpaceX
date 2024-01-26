@@ -1,6 +1,6 @@
 #  **Applied Data Science Capstone**
 
-The *Data Science Professional Ceritificate Capstone* is the culminating course in the IBM Data Science Professional Certificate specialization. This final project serves as a comprehensive summary, applying all the knowledge acquired throughout the specialization.
+The *Applied Data Science Capstone* is the culminating course in the IBM Data Science Professional Certificate specialization. This final project serves as a comprehensive summary, applying all the knowledge acquired throughout the specialization.
 
 ## **Project Background**
 
